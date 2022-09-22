@@ -1,0 +1,6 @@
+data/train/*
+data/test/*
+data/valid/*
+output/*.pth
+*.h5
+*.pyc
